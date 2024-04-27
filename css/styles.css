@@ -37,6 +37,16 @@ body {
   margin-right: auto;
 }
 
+.section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+
 .section-paddings {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -169,7 +179,6 @@ button {
   border: none;
   border-radius: 4px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-
 }
 
 .hero-button:hover,
@@ -238,7 +247,6 @@ button {
 .team-list {
   display: flex;
   gap: 24px;
-
 }
 
 .team-item {
@@ -249,16 +257,6 @@ button {
 
 .team-wrap {
   padding: 32px 0;
-}
-
-.section-title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
-  margin-bottom: 72px;
 }
 
 .team-subtitle {
