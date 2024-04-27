@@ -1,3 +1,5 @@
+/* ==========GENERAL STYLES========== */
+
 ul, ol {
   margin-top: 0;
   margin-bottom: 0;
@@ -44,6 +46,8 @@ body {
 button {
   cursor: pointer;
 }
+
+/* ==========HEADER STYLES========== */
 
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -119,6 +123,8 @@ button {
   color: #404bbf;
 }
 
+/* ==========HERO STYLES========== */
+
 .hero {
   background-color: #2e2f42;
   background-image: linear-gradient(
@@ -171,6 +177,8 @@ button {
   background-color: #404bbf;
 }
 
+/* ==========BENEFITS SECTION STYLES========== */
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -209,6 +217,8 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* ==========TEAM SECTION STYLES========== */
 
 .team {
   background-color: #f4f4fd;
@@ -257,6 +267,8 @@ button {
   text-align: center;
 }
 
+/* ==========PORTFOLIO SECTION STYLES========== */
+
 .portfolio-list {
   display: flex;
   column-gap: 24px;
@@ -291,6 +303,8 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* ==========FOOTER STYLES========== */
 
 .page-footer {
   background-color: #2e2f42;
